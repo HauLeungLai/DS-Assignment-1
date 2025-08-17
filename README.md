@@ -11,7 +11,7 @@ Run the RMU registry in the background on port 1099:
 **"rmiregistry 1099 &"** and leave this running  while testing.   
 
 Step 2: Start the Server  
-In a new terminal, navigate to the "src" file, run:
+In a new terminal, navigate to the "src" file, run:  
 **"java CalculatorServer"** - This will bind the calculator service under the name Calculator.  
 
 Step 3: Run a Single Client  
